@@ -37,14 +37,32 @@ header{
     margin-top: 20px;
 }
 thead{
-    background-color: #20A9E5;
+    background-color: #17a3df;
     color: #ffffff;
 }
 .th_size{
-    width: 30px;
+    width: 50px;
 }
 .tbg{
    background-color: #B1E5F2;
+}
+
+    /* fine tabella */
+.img1{
+    background-image:url(../img/monitor.jpg) ;
+    width: 210px;
+    height: 160px;
+    padding: 15px;
+    margin-bottom: 10px;;
+}
+.img2{
+    background-image: url(../img/graph.jpg);
+    width: 210px;
+    height: 160px;
+    padding: 15px;
+}
+.colr{
+    color: #ffffff;
 }
 
     /* span */
