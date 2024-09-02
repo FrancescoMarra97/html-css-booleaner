@@ -1,3 +1,22 @@
-.pattern{
-    background-color: aqua;
+  /* general */
+body{
+    margin: auto;
 }
+h1{
+    font-size: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+    /* span */
+ .grey-word{
+        color: #808080;
+    }
+ .blue-word{
+        color: #2daee6;
+    }
+    /* da correggere */
+.yeollow-marker{
+        background-color: #ffff00;
+    }
